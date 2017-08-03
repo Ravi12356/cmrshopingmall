@@ -42,6 +42,9 @@
 							</ColumnListItem>
 						</items>
 					</Table>
+					<TextArea value="" width="100%">
+						
+					</TextArea>
 				</content>
 					<footer>
 			        <Toolbar>
