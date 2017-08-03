@@ -53,7 +53,7 @@
 				</content>
 					<footer>
 			        <Toolbar>
-					<Button type="Accept" text="Accept" press="onPress"/>
+					<Button type="Accept" text="Accept" press="onPress2"/>
 					<Button type="Reject" text="Reject" press="onPress" />
 			       </Toolbar>
 		         </footer>
