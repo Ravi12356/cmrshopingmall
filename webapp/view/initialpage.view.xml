@@ -42,6 +42,12 @@
 							</ColumnListItem>
 						</items>
 					</Table>
+					
+					<Button type="Accept"
+						text="Accept"
+						press="onPress" >
+						
+					</Button>
 				</content>
 			</Page>
 		</pages>
