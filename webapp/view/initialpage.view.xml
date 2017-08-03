@@ -43,8 +43,9 @@
 						</items>
 					</Table>
 					<Label text="Label A (required)"></Label>
-					<TextArea value="" width="100%">
-						
+					<TextArea value="" width="100%" />
+					<Label text="Label B (required)"></Label>
+					<TextArea value="" width="100%">	
 					</TextArea>
 				</content>
 					<footer>
