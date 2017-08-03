@@ -42,9 +42,15 @@
 							</ColumnListItem>
 						</items>
 					</Table>
+				
+				</content>
+				
+					<footer>
+			        <Toolbar>
 					<Button type="Accept" text="Accept" press="onPress"/>
 					<Button type="Reject" text="Reject" press="onPress" />
-				</content>
+			       </Toolbar>
+		         </footer>
 			</Page>
 		</pages>
 	</App>
