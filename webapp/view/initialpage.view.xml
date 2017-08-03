@@ -47,6 +47,9 @@
 					<Label text="Label B (required)"></Label>
 					<TextArea value="" width="100%">	
 					</TextArea>
+					<Label text="Label C (required)"></Label>
+					<TextArea value="" width="100%">	
+					</TextArea>
 				</content>
 					<footer>
 			        <Toolbar>
