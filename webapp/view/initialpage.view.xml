@@ -42,13 +42,13 @@
 							</ColumnListItem>
 						</items>
 					</Table>
-					<Label text="Label A (required)" design="Bold"></Label>
-					<TextArea value="" width="100%" />
+					<Label text="Label A (required)" design="Bold" ></Label>
+					<TextArea value="" width="10%" />
 					<Label text="Label B (required)" design="Bold"></Label>
-					<TextArea value="" width="100%">	
+					<TextArea value="" width="10%">	
 					</TextArea>
 					<Label text="Label C (required)" design="Bold"></Label>
-					<TextArea value="" width="100%">	
+					<TextArea value="" width="10%">	
 					</TextArea>
 				</content>
 					<footer>
