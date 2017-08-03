@@ -43,7 +43,7 @@
 						</items>
 					</Table>
 					<Button type="Accept" text="Accept" press="onPress"/>
-					<Button type="Reject" text="Reject" press="onPress"/>
+					<Button type="Reject" text="Reject" press="onPress" />
 				</content>
 			</Page>
 		</pages>
